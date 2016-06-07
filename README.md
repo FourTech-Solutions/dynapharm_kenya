@@ -1,2 +1,2 @@
-# dynapharm_kenya
-An android application that will enable the customers to recruit other customers under their name to enable them gain out of this
+# meet_kenya
+An android application that will enable the farmers to know their customers and interact through chatting
